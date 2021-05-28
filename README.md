@@ -1,2 +1,5 @@
 # ApiHunterSH
-Procura por chaves de API's dado um amontoado de subdomínios (usa HTTPX)
+
+cat subdominios | apihunter.sh 
+ou 
+apihunter.sh subs.txt
